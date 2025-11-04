@@ -2,10 +2,10 @@ package com.example.ecommerce.network
 
 
 
-import com.ecommerce.ecommerceapp.models.AuthResponse
-import com.ecommerce.ecommerceapp.models.LoginRequest
-import com.ecommerce.ecommerceapp.models.RegisterResponse
-import com.ecommerce.ecommerceapp.models.User
+import com.example.ecommerce.models.AuthResponse
+import com.example.ecommerce.models.LoginRequest
+import com.example.ecommerce.models.RegisterResponse
+import com.example.ecommerce.models.User
 import retrofit2.Response
 import retrofit2.http.Body
 import retrofit2.http.POST

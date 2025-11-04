@@ -1,6 +1,6 @@
 package com.example.ecommerce.models
 
-import com.ecommerce.ecommerceapp.models.User
+import com.example.ecommerce.models.User
 import com.google.gson.annotations.SerializedName
 
 

@@ -1,4 +1,4 @@
-package com.ecommerce.ecommerceapp.models
+package com.example.ecommerce.models
 
 
 import android.os.Parcelable
@@ -69,4 +69,3 @@ data class Role(
     @SerializedName("TypeRole")
     val TypeRole: String
 ) : Parcelable
-
